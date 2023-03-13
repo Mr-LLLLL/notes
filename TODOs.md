@@ -8,6 +8,7 @@ title: TODO-list
 - [x] ~~LSPconfig implement restart all client and reattach all buffer before attached~~ reattach client to current buffer for lsp
 - [x] feat: def,ref,imp etc jumped to center of a window
 - [x] feat: dap of go.nvim support g? show GoDbgKeys
-- [x] feat: if next char is ',', direnct skip it if key ',' in insert mode
+- [x] feat: if next char is ',', direct skip it if key ',' in insert mode
+- [x] feat: fork interesting word and implement global highlight, fix 'n' item bug
 
 # Golang
